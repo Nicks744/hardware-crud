@@ -18,12 +18,14 @@ Claro! Aqui está uma versão mais clara, organizada e profissional da sua descr
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
+React.js — Biblioteca para construção da interface de usuário
 
-- **React.js** — Framework para construção da interface de usuário  
-- **JavaScript ES6+** — Lógica da aplicação  
-- **CSS** — Estilização da interface  
-- **localStorage** — Armazenamento local dos dados  
+JavaScript ES6+ — Lógica da aplicação
+
+Bootstrap — Estilização responsiva e pronta para produção
+
+localStorage — Armazenamento local dos dados
 
 ---
 
