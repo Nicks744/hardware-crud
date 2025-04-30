@@ -19,6 +19,7 @@ Claro! Aqui está uma versão mais clara, organizada e profissional da sua descr
 ---
 
 🛠️ Tecnologias Utilizadas
+
 React.js — Biblioteca para construção da interface de usuário
 
 JavaScript ES6+ — Lógica da aplicação
